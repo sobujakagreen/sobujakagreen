@@ -1,16 +1,26 @@
-## Hi there 👋
+# Md. Ariful Islam Sobuj — Portfolio Website
 
-<!--
-**sobujakagreen/sobujakagreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A responsive personal portfolio built with React and regular CSS (Vite for local development). No UI framework is used.
 
-Here are some ideas to get you started:
+## Requirements
+- Node.js 18+ recommended
+- npm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Run locally
+1. Extract the project ZIP.
+2. Open a terminal in the project folder.
+3. Run `npm install`
+4. Run `npm run dev`
+5. Open the local URL printed in your terminal.
+
+## Build for publishing
+Run `npm run build`. The production website is created in the `dist` folder. Upload its contents to a static hosting service such as GitHub Pages, Netlify, or Vercel.
+
+## Customize
+- Main website content: `src/App.jsx`
+- Design and responsive rules: `src/App.css`
+- Page title and metadata: `index.html`
+
+The hero graphic is a CSS illustration placeholder. Replace the `.profile-placeholder` block in `src/App.jsx` with an `<img>` element and add your image file in `public/` if you want to use a real portrait.
+
+The print button opens the browser print dialog, where the page can also be saved as a PDF.
