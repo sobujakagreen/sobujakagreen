@@ -80,39 +80,6 @@ This portfolio itself is built with **React + plain CSS** (no UI framework), usi
 
 ---
 
-## 🖥️ Run This Portfolio Locally
-
-**Requirements:** Node.js 18+ and npm
-
-```bash
-git clone https://github.com/<your-username>/ariful-islam-sobuj-portfolio.git
-cd ariful-islam-sobuj-portfolio
-npm install
-npm run dev        # start the dev server, open the printed local URL
-```
-
-**Build for publishing:**
-
-```bash
-npm run build      # production site generated in dist/
-```
-
-Upload the contents of `dist/` to GitHub Pages, Netlify, or Vercel.
-
-### 📁 Project Structure
-
-```
-├── index.html        # Page title & metadata
-├── src/
-│   ├── App.jsx       # All website content lives here
-│   ├── App.css       # Design & responsive rules
-│   └── main.jsx      # React entry point
-```
-
-**Customize:** replace the `.profile-placeholder` block in `src/App.jsx` with an `<img>` and drop your portrait into `public/`. The **Print / Save as PDF** button opens the browser print dialog.
-
----
-
 ## 📫 Get in Touch
 
 <table>
