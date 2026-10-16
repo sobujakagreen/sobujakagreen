@@ -84,7 +84,7 @@ This portfolio itself is built with **React + plain CSS** (no UI framework), usi
 
 <table>
   <tr>
-    <td>📧 Email</td><td><a href="mailto:kazianishur18@gmail.com">kazianishur18@gmail.com</a></td>
+    <td>📧 Email</td><td><a href="mailto:sobujarifulislammd@gmail.com">sobujarifulislammd@gmail.com</a></td>
   </tr>
   <tr>
     <td>📱 Phone</td><td><a href="tel:01804267428">01804267428</a></td>
