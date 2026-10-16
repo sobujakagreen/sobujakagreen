@@ -190,7 +190,7 @@ function App() {
             <div className="contact-copy"><span className="eyebrow">LET’S CONNECT</span><h2>Have an opportunity<br />or a question?</h2><p>Feel free to contact me about teaching, computer services, or professional opportunities.</p></div>
             <div className="contact-details">
               <a href="tel:01804267428" className="contact-method"><span className="contact-method-icon">☎</span><span><small>Phone</small><strong>01804267428</strong></span><b>↗</b></a>
-              <a href="mailto:kazianishur18@gmail.com" className="contact-method"><span className="contact-method-icon">✉</span><span><small>Email</small><strong>kazianishur18@gmail.com</strong></span><b>↗</b></a>
+              <a href="mailto:sobujarifulislammd@gmail.com" className="contact-method"><span className="contact-method-icon">✉</span><span><small>Email</small><strong>sobujarifulislammd@gmail.com</strong></span><b>↗</b></a>
               <div className="contact-method location-method"><span className="contact-method-icon">⌖</span><span><small>Location</small><strong>Saidpur, Nilphamari, Bangladesh</strong></span></div>
             </div>
           </div>
